@@ -1,0 +1,10 @@
+git clone https://github.com/yoshi389111/github-pacman-graph.git
+cd github-pacman-graph
+GITHUB_NAME=AndreGoncallez
+npm install
+npm run generate
+/output/pacman-contribution-graph.svg
+/output/pacman-contribution-graph-dark.svg
+git add output/
+git commit -m "Adiciona gráficos de contribuição estilo Pacman"
+git push
