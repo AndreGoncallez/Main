@@ -24,8 +24,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=21bdae&width=1100&size=21&center=true&lines=Hi+%F0%9F%91%8B!+I'm+Andr%C3%A9+Gon%C3%A7allez,+IT+Infrastructure+%26+Support+%7C" alt="Typing SVG - Line 1"/>
-  <br> <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=21bdae&width=1100&size=21&center=true&lines=Cybersecurity+%7C+Agile+Project+Management+%7C+Business+Intelligence+%7C+CCNA+(in+progress)." alt="Typing SVG - Line 2"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=21bdae&width=1100&size=18&center=true&lines=+IT+Infrastructure+%26+Support+%7C+Cybersecurity+%7C+Agile+Project+Management+%7C+Business+Intelligence+%7C+CCNA+(in+progress)." alt="Typing SVG - Line 2"/>
 </div>
 
 <br>
