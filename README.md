@@ -1,4 +1,43 @@
-<h2 align="left">Hi 👋! I'm André Gonçallez,  IT Infrastructure & Support | Cybersecurity | Agile Project Management | Business Intelligence | CCNA (in progress).</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
+
+<div align="center">
+  <samp>
+    <b>
+      アンドレ・ゴンサレス
+    </b>
+      <br>
+      Hi there! I'm André Gonçallez
+      <br>
+  </samp>
+</div>
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+ <div style="text-align: center;">
+  <img align="center" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZvamVncjhkeXVsd2w0bWE5ZzlsbXQ0NnMxcTVkYW51cmNiYzJwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cd7Y7tJ4pHbGM/giphy.gif"  />
+</div>
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=21bdae&width=1100&size=21&center=true&lines=Hi+%F0%9F%91%8B!+I'm+Andr%C3%A9+Gon%C3%A7allez,+IT+Infrastructure+%26+Support+%7C" alt="Typing SVG - Line 1"/>
+  <br> <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=21bdae&width=1100&size=21&center=true&lines=Cybersecurity+%7C+Agile+Project+Management+%7C+Business+Intelligence+%7C+CCNA+(in+progress)." alt="Typing SVG - Line 2"/>
+</div>
+
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+  <br>
 
 ###
 
@@ -9,7 +48,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZvamVncjhkeXVsd2w0bWE5ZzlsbXQ0NnMxcTVkYW51cmNiYzJwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cd7Y7tJ4pHbGM/giphy.gif"  />
+
 
 ###
 
