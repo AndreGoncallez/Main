@@ -6,7 +6,7 @@
       アンドレ・ゴンサレス
     </b>
       <br>
-      Hi there! I'm André Gonçallez
+      <h2 align="center">Hi 👋! I'm André Gonçallez</h2>
       <br>
   </samp>
 </div>
@@ -42,11 +42,23 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreGoncallez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndreGoncallez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages  graph" />
+  <img
+    height="135"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+  />
+  <img
+    height="135"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
+  />
+  <img
+    height="135" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=tokyonight"
+  />
+  <img
+    height="135" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&card_width=885"
+  />
 </div>
-
-###
 
 
 
