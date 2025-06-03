@@ -42,17 +42,17 @@
 
 <div align="center">
   <img
-    height="135"
+    height="130"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
   />
   <img
-    height="135"
+    height="130"
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
   />
   <img
-    height="135" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=tokyonight"
+    height="130" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=tokyonight"
   />
   <img
     height="135" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&card_width=885"
