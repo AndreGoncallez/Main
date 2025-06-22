@@ -44,18 +44,18 @@
   <img
     height="130"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=andregoncallez&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=andregoncallez&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka&cache_buster=1"
   />
-<img
-  height="130"
-  alt="Top Language"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregoncallez&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
-/>
   <img
-    height="175" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andregoncallez&theme=tokyonight"
+    height="130"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregoncallez&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight&cache_buster=1"
+  />
+  <img
+    height="185" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andregoncallez&theme=tokyonight&cache_buster=1"
   />
 <img
-  height="135"
+  height="140"
   alt="GitHub Streak Stats"
   src="https://github-readme-streak-stats.herokuapp.com?user=andregoncallez&theme=tokyonight&card_width=885"
 />
