@@ -4,16 +4,34 @@ on:
   schedule:
     # Runs every 8 hours
     - cron: '0 */8 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Permite disparar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate Contribution Graph
     steps:
-      - uses: actions/checkout@v3
-      - uses: abozanona/pacman-contribution-graph@v1.2.0
+      - name: Checkout repository # Passo para clonar seu repositório
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman graph # Passo para gerar o gráfico
+        uses: abozanona/pacman-contribution-graph@v1.2.0
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs_folder: 'output'
+          outputs_folder: 'output' # A imagem será salva na pasta 'output'
+
+      # Novo passo: Configurar o git
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Novo passo: Commitar a imagem gerada de volta ao repositório
+      - name: Commit generated graph
+        run: |
+          git add output/pacman.svg # Adiciona o arquivo gerado. O nome padrão é pacman.svg
+          git commit -m "Update Pacman contribution graph" || echo "No changes to commit" # Commita se houver mudanças
+          git push # Envia as mudanças para o GitHub
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Usa o token para autenticar o push
