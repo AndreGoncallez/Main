@@ -46,11 +46,11 @@
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=andregoncallez&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
   />
-  <img
-    height="130"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregoncallez&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
-  />
+<img
+  height="130"
+  alt="Top Language"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregoncallez&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
+/>
   <img
     height="175" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andregoncallez&theme=tokyonight"
   />
