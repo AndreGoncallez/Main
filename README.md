@@ -52,7 +52,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregoncallez&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
   />
   <img
-    height="130" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andregoncallez&theme=tokyonight"
+    height="175" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andregoncallez&theme=tokyonight"
   />
 <img
   height="135"
