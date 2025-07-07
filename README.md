@@ -97,7 +97,6 @@ Com foco em **Cloud (GCP, AWS)**, **CI/CD Pipelines seguros**, **IaC (Infrastruc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="height:30px;" width="36" />
 </p>
 
-
 ---
 
 ## 📂 Projetos e Labs em andamento:
