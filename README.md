@@ -84,26 +84,17 @@ Com foco em **Cloud (GCP, AWS)**, **CI/CD Pipelines seguros**, **IaC (Infrastruc
 
 ## 🧱 Tecnologias e Ferramentas que estou trabalhando:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="python logo" /> 
-  <img width="10"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="24" alt="linux logo" /> 
-  <img width="10"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="24" alt="r logo" /> 
-  <img width="10"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="24" alt="grafana logo" /> 
-  <img width="10"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" alt="mysql logo" /> 
-  <img width="10"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" alt="git logo" /> 
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="24" alt="azure logo" /> 
-  <img width="10"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="24" alt="gcp logo" /> 
-  <img width="10"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="24" alt="docker logo" /> 
-  <img width="10"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="24" alt="terraform logo" /> 
+<div align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" alt="python logo" /> <img width="8"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="16" alt="linux logo" /> <img width="8"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="16" alt="r logo" /> <img width="8"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="16" alt="grafana logo" /> <img width="8"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="16" alt="mysql logo" /> <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="16" alt="git logo" /> <img width="8"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="16" alt="azure logo" /> <img width="8"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="16" alt="gcp logo" /> <img width="8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="16" alt="docker logo" /> <img width="8"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="16" alt="terraform logo" /> 
 </div>
 
 ---
