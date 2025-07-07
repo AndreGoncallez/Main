@@ -24,7 +24,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=21BDAE&width=1400&size=22&center=true&lines=IT+Infrastructure+%26+Security+DevSecOps+in+Progress+Cloud+Security+CI%2FCD+Automation+CCNA+(in+progress);Google+Cybersecurity+Professional+Cloud+Engineer+Track" alt="Typing SVG - IT & Security Roadmap"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=21BDAE&width=1400&size=22&center=true&lines=DevSecOps+Practitioner;Cloud+Security+Engineer+(Google+Track);Infraestrutura+%26+Ciberseguran%C3%A7a;Projetos+%C3%81geis;Power+BI" alt="Typing SVG - Perfil Profissional"/>
 </div>
 
 <br>
