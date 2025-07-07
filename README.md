@@ -85,8 +85,8 @@ Com foco em **Cloud (GCP, AWS)**, **CI/CD Pipelines seguros**, **IaC (Infrastruc
 ## 🧱 Tecnologias e Ferramentas que estou trabalhando:
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="6" alt="python logo"  />
+  <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
